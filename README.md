@@ -45,7 +45,7 @@ Devolutiva:
 `1.Pré-formulação e Formulação:
 Concepção e Viabilidade: Define-se o objetivo da missão (científica, educacional ou tecnológica) e analisa-se se o projeto é realizável dentro do orçamento e tempo previstos. Design Preliminar e Final: Desenvolvem-se os subsistemas (energia, comunicações, computador de bordo) e a carga útil. Recomenda-se o uso de componentes comerciais prontos (COTS) para reduzir custos e riscos.`
 
-`2.Implementação:Fabricação e Montagem: Construção do hardware e desenvolvimento do software de voo
+`2.Implementação: Fabricação e Montagem: Construção do hardware e desenvolvimento do software de voo
 . Projetos educacionais costumam usar plataformas como Arduino ou ESP32 com linguagem Python (MicroPython) pela facilidade de uso.
 Testes Rigorosos: Antes do lançamento, o satélite deve passar por testes de vibração (para suportar o lançamento), vácuo térmico (TVAC) e o teste DITL (Day In The Life), que simula o funcionamento autônomo do satélite no espaço.`
 
@@ -55,10 +55,22 @@ Após o lançamento, a equipe opera o satélite por meio de uma estação de sol
 
 ## Miniguia de Estudo
 
-Resumo:
+**Resumo:**
+  Consegui entender melhor o funcionamento de satélites e entender suas utilidades, como: pesquisas sobre o clima, ciência biológica, monitoramento de detritos orbitais, missões em espaço profundo, monitoramento diário de desmatamento, incêndios florestais, derramamento de óleo nos oceanos, agricultura de precisão e diversas outras possibilidades.
+  Vi que é possível ter acesso a um CubeSat ou outros satélites pequenos, mas é necessário participar de algum projeto de pesquisa estudantil, porém ainda é caro para um grupo pequeno ou um individuo só, sendo necessário parcerias, financiamento ou subsídios para custear o equipamento.  
+  Também descobri que todas etapas de desenvolvimento podem demorar muitos anos e que é extremamente complexo varias etapas de desenvolvimento incluindo lançamento para o espaço. Isso contando também com tempo de estudo e desenvolvimento.
+  A programação é em Python (MicroPython). 
 
-Glossário com os principais conceitos aprendidos:
+**Glossário com os principais conceitos aprendidos:**
+Telemetria: É o processo de receber dados e informações enviados pelo satélite para a estação de solo, permitindo monitorar o estado e o funcionamento do equipamento no espaço.
 
-Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema:
+TVAC (Vácuo Térmico): É um teste ambiental onde o satélite é colocado em uma câmara de alto vácuo e submetido a temperaturas extremas para simular as condições espaciais e garantir que os materiais não liberem contaminantes prejudiciais (outgassing).
 
+DITL (Day In The Life): É um teste de simulação que recria os primeiros momentos do satélite no espaço logo após ser liberado do lançador, servindo para verificar se o software de voo, os temporizadores e a abertura de antenas/painéis funcionam como planejado.
 
+CSLI (CubeSat Launch Initiative): É uma iniciativa da NASA que oferece oportunidades de lançamento gratuito para CubeSats qualificados de universidades e organizações sem fins lucrativos, permitindo que eles "peguem carona" como carga secundária em missões espaciai
+
+**Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema:**
+- Liste as principais iniciativas que permitem um lançamento (ou desenvolvimento) de um CubeSat
+- Em quais fontes é possível ter conteúdo acessível e de qualidade para estudo e pesquisa sobre esse tema?
+- Possíveis projetos para desenvolver numa jornada estudantil de (Ensino Médio/ Universidade/ outro de sua preferencia) que sejam viaveis e possiveis recursos necessarios.
