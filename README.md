@@ -43,7 +43,7 @@ Devolutiva:
 ` ...O processo pode ser dividido em três grandes etapas:`
 
 `1.Pré-formulação e Formulação:
-Concepção e Viabilidade: Define-se o objetivo da missão (científica, educacional ou tecnológica) e analisa-se se o projeto é realizável dentro do orçamento e tempo previstos.Design Preliminar e Final: Desenvolvem-se os subsistemas (energia, comunicações, computador de bordo) e a carga útil. Recomenda-se o uso de componentes comerciais prontos (COTS) para reduzir custos e riscos.
+Concepção e Viabilidade: Define-se o objetivo da missão (científica, educacional ou tecnológica) e analisa-se se o projeto é realizável dentro do orçamento e tempo previstos. Design Preliminar e Final: Desenvolvem-se os subsistemas (energia, comunicações, computador de bordo) e a carga útil. Recomenda-se o uso de componentes comerciais prontos (COTS) para reduzir custos e riscos.
 Implementação:`
 
 `2.Fabricação e Montagem: Construção do hardware e desenvolvimento do software de voo
@@ -53,4 +53,13 @@ Testes Rigorosos: Antes do lançamento, o satélite deve passar por testes de vi
 `3.Operação e Fechamento:
 Após o lançamento, a equipe opera o satélite por meio de uma estação de solo para receber dados (telemetria) e enviar comandos
 . A missão termina com o encerramento das atividades e a reentrada na atmosfera...`
+
+## Miniguia de Estudo
+
+Resumo:
+
+Glossário com os principais conceitos aprendidos:
+
+Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema:
+
 
