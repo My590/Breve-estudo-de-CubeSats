@@ -43,10 +43,9 @@ Devolutiva:
 ` ...O processo pode ser dividido em três grandes etapas:`
 
 `1.Pré-formulação e Formulação:
-Concepção e Viabilidade: Define-se o objetivo da missão (científica, educacional ou tecnológica) e analisa-se se o projeto é realizável dentro do orçamento e tempo previstos. Design Preliminar e Final: Desenvolvem-se os subsistemas (energia, comunicações, computador de bordo) e a carga útil. Recomenda-se o uso de componentes comerciais prontos (COTS) para reduzir custos e riscos.
-Implementação:`
+Concepção e Viabilidade: Define-se o objetivo da missão (científica, educacional ou tecnológica) e analisa-se se o projeto é realizável dentro do orçamento e tempo previstos. Design Preliminar e Final: Desenvolvem-se os subsistemas (energia, comunicações, computador de bordo) e a carga útil. Recomenda-se o uso de componentes comerciais prontos (COTS) para reduzir custos e riscos.`
 
-`2.Fabricação e Montagem: Construção do hardware e desenvolvimento do software de voo
+`2.Implementação:Fabricação e Montagem: Construção do hardware e desenvolvimento do software de voo
 . Projetos educacionais costumam usar plataformas como Arduino ou ESP32 com linguagem Python (MicroPython) pela facilidade de uso.
 Testes Rigorosos: Antes do lançamento, o satélite deve passar por testes de vibração (para suportar o lançamento), vácuo térmico (TVAC) e o teste DITL (Day In The Life), que simula o funcionamento autônomo do satélite no espaço.`
 
